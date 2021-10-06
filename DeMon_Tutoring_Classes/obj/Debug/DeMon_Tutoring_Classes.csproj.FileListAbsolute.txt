@@ -1,0 +1,6 @@
+C:\Users\Kuba\source\repos\UPDATED_07_05_2020\DeMon_Tutoring_Classes\bin\Debug\DeMon_Tutoring_Classes.dll
+C:\Users\Kuba\source\repos\UPDATED_07_05_2020\DeMon_Tutoring_Classes\bin\Debug\DeMon_Tutoring_Classes.pdb
+C:\Users\Kuba\source\repos\UPDATED_07_05_2020\DeMon_Tutoring_Classes\obj\Debug\DeMon_Tutoring_Classes.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\UPDATED_07_05_2020\DeMon_Tutoring_Classes\obj\Debug\DeMon_Tutoring_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\UPDATED_07_05_2020\DeMon_Tutoring_Classes\obj\Debug\DeMon_Tutoring_Classes.dll
+C:\Users\Kuba\source\repos\UPDATED_07_05_2020\DeMon_Tutoring_Classes\obj\Debug\DeMon_Tutoring_Classes.pdb
